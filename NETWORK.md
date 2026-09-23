@@ -1,10 +1,17 @@
-# Zion AI ROI Calculator
+# Zion AI ROI Calculator — Zion App Network
 
-Model payback, savings and TCO for AI & IT projects.
+AI ROI Calculator — model payback, savings and TCO for AI & IT projects. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Related: [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator) · [roi-calculator](https://github.com/Zion-support/roi-calculator) · [zion-ai-readiness-quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) · [zion-sla-cost-calculator](https://github.com/Zion-support/zion-sla-cost-calculator)
+- 🔗 Live app: [https://roi-calculator.ziontechgroup.com](https://roi-calculator.ziontechgroup.com)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [AI ROI Calculator](https://github.com/Zion-support/ai-roi-calculator) — estimate payback, NPV and TCO
+- [ROI Calculator](https://github.com/Zion-support/roi-calculator) — payback and TCO of AI projects
+- [Zion AI Readiness Quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) — score your AI readiness
+- [Zion AI Model Cost Simulator](https://github.com/Zion-support/zion-ai-model-cost-simulator) — pre-flight cost & latency simulation
+- [IT Staffing Calculator](https://github.com/Zion-support/it-staffing-calculator) — team sizing calculator
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
